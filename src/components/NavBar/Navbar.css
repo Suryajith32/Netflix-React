@@ -1,0 +1,47 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+   
+    justify-content: space-between;
+    background-color: #111;
+}
+.netflix-logo{
+    top:0px;
+    width: 140px;
+    position: fixed;
+   
+    
+}
+.avatar-logo{
+    width: 30px;
+    position: fixed;
+    margin-left: 95%;
+    
+    
+}
+.nav-items{
+    font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+    color: aliceblue;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin-left: 170px;
+    padding-top: 5px;
+}
+.nav-items-2{
+   
+    color: aliceblue;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin-left: 400px;
+    
+}
+.search-logo{
+    color: aliceblue;
+    padding-top: 3px;
+    
+}
